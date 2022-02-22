@@ -30,4 +30,6 @@ override.tf.json
 #
 
 *.src
-*.src
+*src
+
+
