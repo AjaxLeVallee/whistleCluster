@@ -1,2 +1,2 @@
-# wistleCluster
+# whistleCluster
 EKS Cluster Base
